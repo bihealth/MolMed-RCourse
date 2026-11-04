@@ -4,7 +4,8 @@
 find instructions for installing R and Rstudio
 [here](https://bihealth.github.io/RcrashCourse2021/Lectures/installing_R_and_Rstudio.html).
 
-If you have any problems with the installation 
+If you have any problems with the installation you can use [Posit Cloud](https://posit.cloud).
+Get started -> choose "Free subscription" -> New Project -> New Rstudio Project.
 
 **Notes on lectures.** Lectures are always available as two files. The
 Rmarkdown file (extension .Rmd) is the source file. It is easy to browse
