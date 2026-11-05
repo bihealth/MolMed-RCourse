@@ -22,11 +22,6 @@ knitr::opts_chunk$set(echo=FALSE,warning=FALSE,message=FALSE,fig.width=5,fig.hei
 
 # R crash course
 
-## The Team
-
-
-![](images/team_112021.png){ height=400px }
-
 ## Aims
 
  * Give you a jump start to 
@@ -43,7 +38,7 @@ knitr::opts_chunk$set(echo=FALSE,warning=FALSE,message=FALSE,fig.width=5,fig.hei
 ## Important links 
 
  * E-mail: `<cubi-teaching@charite.de>` 
- * Github: `https://github.com/bihealth/Rcrashcourse`
+ * Github: `https://github.com/bihealth/MolMed-RCourse`
  * Teams
 
 To view the lectures, click on the link.
