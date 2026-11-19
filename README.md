@@ -40,7 +40,7 @@ To view HTML files, use the links below.
 # Day 3: Reading, cleaning and writing data
 
  * Course materials - "5 days of R", [day 3](https://bihealth.github.io/RCrashcourse-book/day3-reading-your-data.html)
- * [Lecture 3](https://bihealth.github.io/Rcrashcourse/Lectures/lecture_03.html): Reading and cleaning data; reshaping data frames
+ * [Lecture 3](https://bihealth.github.io/MolMed-RCourse/Lectures/lecture_03.html): Reading and cleaning data; reshaping data frames
  * [Video: introduction to regular expressions, 15 minutes](https://youtu.be/ukN59iCo5wc)
  * [Script from Day 3](https://github.com/bihealth/Rcrashcourse/blob/main/Scripts/day3_script.R)
 
