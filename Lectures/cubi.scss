@@ -1,0 +1,86 @@
+/*-- scss:defaults --*/
+
+//@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&family=Noto+Sans:wght@300;400;600;700&family=Fira+Sans:wght@300;400;600;700&display=swap");
+
+$bih-BLAU      : #003754;
+$bih-WEISS     : #FFFFFF;
+$bih-KORALL    : #EA5451;
+$bih-DUNKELROT : #AF1821;
+$bih-HELLROSA  : #FFB0AC;
+$bih-GOLD      : #9D7220;
+$bih-MINERAL   : #009AA9;
+$bih-LAVENDEL  : #7876B6;
+
+// Font stack
+$font-family-sans-serif:
+  "Trebuchet MS",
+  "Source Sans 3",
+  "Noto Sans",
+  "Fira Sans",
+  "Liberation Sans",
+  Arial,
+  Helvetica,
+  sans-serif;
+// fonts
+$body-font: $font-family-sans-serif;
+$presentation-heading-font: $font-family-sans-serif;
+$presentation-title-slide-text-align: left;
+
+$presentation-font-size-root: 26px !default;
+$presentation-heading-color: $bih-DUNKELROT;
+$presentation-title-slide-text-align: left;
+$presentation-font-smaller:0.85;
+
+$body-bg: $bih-WEISS;
+$body-color: $bih-BLAU;
+$link-color: $bih-KORALL;
+$code-color: $bih-KORALL;
+
+/*-- scss:rules --*/
+
+.quarto-title-author {
+  color: white !important;
+}
+
+.title {
+  font-size: 2.5em !important;
+  color: white !important;
+}
+
+.subtitle { color: $bih-HELLROSA !important; }
+
+
+#title-slide {
+  transform: translate(-10%, 10%);
+}
+
+h3 {
+  color: $bih-DUNKELROT !important;
+}
+
+
+.inverse, .inverse h2, .inverse h1 {
+  color: white !important;
+}
+
+li::marker {
+  color: $bih-DUNKELROT !important;
+}
+
+.reveal .slide-number > a[href*='title-slide'] {
+  display: none;
+}
+.reveal {
+  font-family: $font-family-sans-serif !important;
+}
+
+.inverse {
+  background-color: $bih-BLAU !important;
+}
+
+.slide.level1 {
+  color: green !important;
+}
+
+
+
